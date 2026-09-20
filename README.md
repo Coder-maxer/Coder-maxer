@@ -23,3 +23,15 @@ Most of what we build lives in private client repos, so what is public here is a
 - [chadsoftwaresolutions.ca](https://chadsoftwaresolutions.ca)
 - [CHAD on LinkedIn](https://www.linkedin.com/company/c-h-a-d-software-development-and-consulting/)
 - I don't keep a personal LinkedIn, but my brother and co-founder [Talha Mahr](https://www.linkedin.com/in/talha-mahr/) does, and his profile shows more of what we have built together.
+
+**<img src="https://api.iconify.design/tabler:code.svg?color=%2396825f&amp;height=18" height="18" alt="" />&nbsp; What I build with:**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
